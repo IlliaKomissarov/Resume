@@ -1,0 +1,148 @@
+body {
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    background-color: #E5E5E5;
+}
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+    padding-top: 30px;
+        padding-left: 55px;
+        padding-right: 25px;
+        padding-bottom: 30px;
+}
+
+.main-content {
+    background-color: #FFFFFF;
+    padding-top: 115px;
+    padding-left: 90px;
+    padding-right: 200px;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.about {
+    font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 17px;
+        color: #000000;
+}
+
+.name {
+    font-style: normal;
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 55px;
+        color: #000000;
+}
+
+.about-text {
+    font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #595959;
+}
+
+.education {
+    font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 27px;
+        color: #000000;
+}
+
+.uni {
+    font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        color: #000000;
+}
+
+.year {
+    font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        color: #FB6D3A;
+}
+
+.Experience {}
+
+.publication {}
+
+.and {}
+
+.awards {}
+
+.sidebar {
+    background-color: #1E2939;
+    padding-top: 40px;
+    width: 370px;
+}
+
+.photo {
+    margin-bottom: 50px;
+}
+
+.sidebar-title {
+    font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 27px;
+        color: #FFFFFF;
+        margin-bottom: 10px;
+}
+
+.sidebar-list {
+    margin-left: 40px;
+    margin-bottom: 80px;
+}
+
+.contact-item {
+    font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 24px;
+        color: #FFFFFF;
+        margin-right: 20px
+}
+
+.contact-link {
+    font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #565E6A;
+}
+
+.adress {
+    font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #FFFFFF;
+}
+
+.sidebar-list-item {
+    font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #FFFFFF;
+        padding: 0;
+        margin-left: 20px;
+}
+
+.footer {
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color: #FFFFFF;
+margin-left: 40px;
+margin-top: 1600px;
+}
